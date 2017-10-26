@@ -17,14 +17,15 @@ Room No. 4202 , Northern India Engineering College
 ### Sponsors:
 - T-shirt* by Digital Ocean & GitHub
 - You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
-- Win swag from various FOSS organsaitons
+- Win swag from various FOSS organisations
 
 
 For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) at championshuttler@gmail.com , 9310945854 
 
 ### Main Organiser:
-[Pushpita Dey](https://mozillians.org/en-US/u/pushpita.dey/)
+[Pushpita Dey](https://mozillians.org/en-US/u/pushpita.dey/)<br />
+[Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/)
 
 ### Speaker : 
-[Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/)
+[Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) <br />
 Mozilla NIEC Ignited Minds
