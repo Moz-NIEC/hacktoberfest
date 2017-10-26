@@ -1,0 +1,55 @@
+ 
+ body{
+ 	/*background-color: #FAFAFA;*/
+ 	background-color: #293588;
+ }
+
+ #wrapper{
+ 	display: flex;
+    justify-content: center;
+	
+ }
+
+ .markdown-body{
+ 	box-sizing: border-box;
+ 	padding: 10px;
+ 	width: 80%;
+ 	color: white;
+ 	/*background-color: white;*/
+ }
+
+ #schedule{
+	box-sizing: border-box;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	color: black;
+
+ }
+
+ #venue{
+ 	width: 40%;
+ 	margin-right: 10px;
+ }
+
+ #data-time{
+ 	width: 30%
+ }
+
+.schedule-detail{
+	background-color: #ecf0f1;
+	
+	padding: 5px;
+	border: 1px dashed black;
+	border-radius: 10px;
+
+}
+ #register{
+ 	box-sizing: border-box;
+ 	margin-top: 40px;
+ 	display: flex;
+ 	justify-content: center;
+ }
+
+ a{
+ 	color: #ff5e00 !important;
+ }
