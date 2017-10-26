@@ -28,4 +28,6 @@ For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozi
 
 ### Speaker : 
 [Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) <br />
+[Rishabh Kr Bothra](https://github.com/geekychaser)<br/>
+[Rishabh Budhiraja](https://github.com/rbrishabh) <br/>
 Mozilla NIEC Ignited Minds
