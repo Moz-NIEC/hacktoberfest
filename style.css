@@ -1,0 +1,29 @@
+body {
+    background: url("https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png") no-repeat center top, linear-gradient(orangered, white);
+
+    }
+
+h1 {
+    font-weight: bold;
+    color: #fff;
+    font-size: 65px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+  
+h2 {
+    font-weight: bold;
+    color: #0A0404;
+    font-size: 24px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  }
+
+.main_content{
+   color: black;
+   padding: 10px;
+   border: 1px solid black;
+   border-radius: 10px;
+   width: 75%;
+   text-align: center;
+   margin-left: 12%;
+   font-size: 15px;
+}
