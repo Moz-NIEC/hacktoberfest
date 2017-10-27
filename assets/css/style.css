@@ -63,7 +63,7 @@ h4{
 #schedule {
   box-sizing: border-box;
   display: flex;
-  justify-content: space-around;
+  margin-left: 70px;
   flex-wrap: wrap;
   color: black;
   padding: 80px
@@ -84,7 +84,7 @@ h4{
 
 #register{
 float: center;
-margin-left: 540px;
+margin-left: 340px;
 font-family: 'Anton', sans-serif;
 
 }
