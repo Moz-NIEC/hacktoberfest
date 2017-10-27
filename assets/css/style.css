@@ -1,13 +1,22 @@
 
+@font-face{
+    font-family: 'Open Sans', sans-serif;
+    src: url('assets/images/fonts/Open Sans/OpenSans-Regular.ttf');
+}
  body{
  	/*background-color: #FAFAFA;*/
  	background-color: #293588;
+        font-family: 'Open Sans', sans-serif;
  }
 
  #wrapper{
  	display: flex;
     justify-content: center;
 
+ }
+
+ .logo{
+    width: 200px;
  }
 
  .markdown-body{
