@@ -15,7 +15,7 @@ In this meetup, we'll take a beginner friendly session on Git and GitHub.
 The most active contributors, who make at least 4 PR's merged, will receive T-shirts sponsored by Digital Ocean. 
 
 ### Venue: 
-Room No. 4202 , Northern India Engineering College
+Room No. 4202, Northern India Engineering College
 ### Date | Time
 28th October | 10 am - 3 pm
 
