@@ -55,7 +55,7 @@ margin-left: 250px;
 
 #moz-heading {
   font-family: 'Abril Fatface', cursive;
-  padding: 20px;
+  padding: 10px;
 }
 h4{
   font-family: 'Varela Round', sans-serif;
@@ -84,7 +84,7 @@ h4{
 
 #register{
 float: center;
-margin-left: 600px;
+margin-left: 540px;
 font-family: 'Anton', sans-serif;
 
 }
@@ -126,8 +126,18 @@ font-family: 'Poiret One', cursive;
 }
 
 #footer{
-  background: #f0f0f0;
-
+  background-color: #111111;
+  color: #F3A87D;
+  border-top: 1px solid red;
+  height: 40px;  /* footer height */
+  padding-top: 10px;
+  padding-right: 10px;
+  text-align: right;
+  display: block;
+  margin-top: 10px; /* space between content and footer */
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
 }
 
 a {
