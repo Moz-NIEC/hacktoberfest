@@ -1,50 +1,58 @@
+body {
+  /*background-color: #FAFAFA;*/
+  background-color: #293588;
+}
 
- body{
- 	/*background-color: #FAFAFA;*/
- 	background-color: #293588;
- }
+header {
+  box-sizing: border-box;
+  background: #000;
+  margin-bottom: 20px;
+}
+header .logo {
+  max-width: 100px;
+  width: 100%;
+}
 
- #wrapper{
- 	display: flex;
-    justify-content: center;
+#wrapper {
+  display: flex;
+  justify-content: center;
+}
 
- }
+.markdown-body,
+.markdown-header {
+  box-sizing: border-box;
+  padding: 10px;
+  width: 80%;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  /*background-color: white;*/
+}
 
- .markdown-body{
- 	box-sizing: border-box;
- 	padding: 10px;
- 	width: 80%;
-	color: white;
-	font-family: 'Open Sans', sans-serif;
- 	/*background-color: white;*/
- }
+#schedule {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  color: black;
+}
 
- #schedule{
-	box-sizing: border-box;
- 	display: flex;
- 	justify-content: space-around;
- 	flex-wrap: wrap;
- 	color: black;
+#venue {
+  width: 40%;
+  margin-right: 10px;
+}
 
- }
-
- #venue{
- 	width: 40%;
- 	margin-right: 10px;
- }
-
- #data-time{
- 	width: 30%;
- }
+#data-time {
+  width: 30%;
+}
 
 .schedule-detail {
-    background-color: #ecf0f1;
-    padding: 15px;
-    border: 1px dashed black;
-    border-radius: 10px;
-    width: 40%;
-    min-width: 250px;
-    margin-right: 10px;
+  background-color: #ecf0f1;
+  padding: 15px;
+  border: 1px dashed black;
+  border-radius: 10px;
+  width: 40%;
+  min-width: 250px;
+  margin-right: 10px;
 }
 .schedule-detail h3,
 .schedule-detail p {
@@ -52,14 +60,14 @@
 }
 
 #register {
-    box-sizing: border-box;
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
+  box-sizing: border-box;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
 }
 
 a {
-    color: #ff5e00 !important;
+  color: #ff5e00 !important;
 }
 
 @media (max-width: 640px) {
