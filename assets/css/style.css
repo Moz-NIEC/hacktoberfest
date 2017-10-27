@@ -51,6 +51,9 @@ padding: 40px;
   display: block;
   margin: 0 auto;
 }
+.markdown-body h1 {
+  text-align: center;
+}
 .markdown-header {
   box-sizing: border-box;
   padding: 20px;
