@@ -10,6 +10,10 @@
 
  }
 
+ .logo{
+    width: 200px;
+ }
+
  .markdown-body{
  	box-sizing: border-box;
  	padding: 10px;
