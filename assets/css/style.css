@@ -1,8 +1,19 @@
+/* Additional Fonts */
+@import url('https://fonts.googleapis.com/css?family=Germania+One');
+@import url('https://fonts.googleapis.com/css?family=Rosarivo');
+
 body {
   /*background-color: #FAFAFA;*/
   background-color: #293588;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family:  'Rosarivo', serif;
 }
-
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 header {
   box-sizing: border-box;
   background: ;
@@ -11,6 +22,19 @@ header {
 header .logo {
   max-width: 100px;
   width: 100%;
+}
+
+/* Headings */ 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  font-family: 'Germania One', cursive;
+  font-weight: 400;
 }
 
 h1 a img {
@@ -22,18 +46,23 @@ h1 a img {
 .markdown-body{
 position: relative;
 padding: 40px;
-margin-left: 250px;
+}
+.markdown-body img {
+  display: block;
+  margin: 0 auto;
+}
+.markdown-body h1 {
+  text-align: center;
 }
 .markdown-header {
   box-sizing: border-box;
   padding: 20px;
   width: 80%;
   color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family:  'Rosarivo', serif;
   /*background-color: white;*/
 }
 .markdown-body img{
-  background-color: #ffffff1a;
   height: 150px;
 };
 
@@ -49,16 +78,17 @@ margin-left: 250px;
   padding: 40px;
 }
 #moz-niec p {
-  font-family: 'Nunito', sans-serif;
-  font-size: 20px;
+  font-family:  'Rosarivo', serif;
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 #moz-heading {
   font-family: 'Abril Fatface', cursive;
-  padding: 20px;
+  padding: 20px 0;
 }
 h4{
-  font-family: 'Varela Round', sans-serif;
+  color: #ff5e00;
 }
 #schedule {
   box-sizing: border-box;
@@ -66,16 +96,25 @@ h4{
   justify-content: space-around;
   flex-wrap: wrap;
   color: black;
-  padding: 80px
+  padding: 80px;
 }
 
 #venue {
   width: 20%;
   margin-right: 10px;
   background: #ff5e00;
-  font-family: 'Anton', sans-serif;
+}
+#schedule .btn {
+  display: inline-block;
+}
+.schedule-detail h3,
+.schedule-detail p {
+  color: #fff;
 }
 
+.schedule-detail p {
+    font-family:  'Rosarivo', serif;
+}
 #data-time {
   width: 20%;
   background: #ff5e00;
@@ -84,7 +123,7 @@ h4{
 
 #register{
 float: center;
-margin-left: 600px;
+
 font-family: 'Anton', sans-serif;
 
 }
@@ -121,7 +160,6 @@ font-family: 'Poiret One', cursive;
 
 #org{
   color: white;
-  margin-left: 100px;
   padding: 20px;
 }
 
