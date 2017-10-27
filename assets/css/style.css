@@ -52,6 +52,14 @@ margin-left: 250px;
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
 }
+
+#moz-heading {
+  font-family: 'Abril Fatface', cursive;
+  padding: 20px;
+}
+h4{
+  font-family: 'Varela Round', sans-serif;
+}
 #schedule {
   box-sizing: border-box;
   display: flex;
@@ -65,6 +73,7 @@ margin-left: 250px;
   width: 20%;
   margin-right: 10px;
   background: #ff5e00;
+  font-family: 'Anton', sans-serif;
 }
 
 #data-time {
@@ -76,8 +85,12 @@ margin-left: 250px;
 #register{
 float: center;
 margin-left: 600px;
-}
+font-family: 'Anton', sans-serif;
 
+}
+#register .btn{
+  font-size: 29px;
+}
 .schedule-detail {
   background-color: #ecf0f1;
   padding: 15px;
@@ -93,12 +106,25 @@ margin-left: 600px;
 }
 
 #sponsor {
-box-sizing: border-box;
+
 margin-top: 40px;
-display: flex;
-justify-content: center;
 padding: 40px;
 background: #f0f0f0;
+}
+
+#sponsor_content{
+padding: 20px;
+font-size: 16px;
+font-weight: bolder;
+font-family: 'Poiret One', cursive;
+}
+
+#org{
+  color: white;
+  position: relative;
+  margin-left: 100px;
+  float: left;
+  padding: 20px;
 }
 
 a {
