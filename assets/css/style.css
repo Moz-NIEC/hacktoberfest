@@ -121,10 +121,13 @@ font-family: 'Poiret One', cursive;
 
 #org{
   color: white;
-  position: relative;
   margin-left: 100px;
-  float: left;
   padding: 20px;
+}
+
+#footer{
+  background: #f0f0f0;
+
 }
 
 a {
