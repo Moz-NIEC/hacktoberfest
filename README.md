@@ -1,7 +1,7 @@
 # Mozilla NIEC Hacktoberfest
 
 <div align="center" style="margin: 20px">
-  <img src="https://github.com/M/hacktoberfest/blob/master/image.jpg">
+  <img src="https://github.com/Moz-NIEC/hacktoberfest/blob/master/image.jpg">
 </div>
 
 #### Support Open Source and earn a limited edition T-shirt
