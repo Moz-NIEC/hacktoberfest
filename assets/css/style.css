@@ -125,11 +125,6 @@ font-family: 'Poiret One', cursive;
   padding: 20px;
 }
 
-#footer{
-  background: #f0f0f0;
-
-}
-
 a {
   color: #ff5e00 !important;
 }
@@ -139,4 +134,31 @@ a {
     flex: 0 0 100%;
     margin: 10px 0;
   }
+}
+
+footer{
+  background-color:rgb(49, 49, 49);
+  padding:40px 0 0 0;
+}
+footer .container{
+  padding-bottom: 20px;
+}
+.subs{
+  width: 100%;
+  margin-bottom: 5px;
+}
+.submit-btn{
+  width: 100%;
+}
+footer form{
+  float: right;
+}
+
+.down-footer{
+  background-color:rgb(90, 90, 90);
+}
+.down-footer p{
+  text-align: center;
+  padding-top:10px;
+  color:#ffffff;
 }
