@@ -21,8 +21,8 @@ Room No. 4202 , Northern India Engineering College
 
 ### Sponsors:
 - T-shirt* by Digital Ocean & GitHub
-- You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
-- Win swag from various FOSS organisations
+- You can also redeem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
+- Win swag from various FOSS organizations
 
 
 For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) at championshuttler@gmail.com , 9310945854 
