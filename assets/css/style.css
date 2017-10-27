@@ -1,4 +1,4 @@
- 
+
  body{
  	/*background-color: #FAFAFA;*/
  	background-color: #293588;
@@ -7,7 +7,7 @@
  #wrapper{
  	display: flex;
     justify-content: center;
-	
+
  }
 
  .markdown-body{
@@ -37,21 +37,34 @@
  	width: 30%;
  }
 
-.schedule-detail{
-	background-color: #ecf0f1;
-	
-	padding: 5px;
-	border: 1px dashed black;
-	border-radius: 10px;
-
+.schedule-detail {
+    background-color: #ecf0f1;
+    padding: 15px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    width: 40%;
+    min-width: 250px;
+    margin-right: 10px;
 }
- #register{
- 	box-sizing: border-box;
- 	margin-top: 40px;
- 	display: flex;
- 	justify-content: center;
- }
+.schedule-detail h3,
+.schedule-detail p {
+  margin: 0 0 5px 0;
+}
 
- a{
- 	color: #ff5e00 !important;
- }
+#register {
+    box-sizing: border-box;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #ff5e00 !important;
+}
+
+@media (max-width: 640px) {
+  .schedule-detail {
+    flex: 0 0 100%;
+    margin: 10px 0;
+  }
+}
