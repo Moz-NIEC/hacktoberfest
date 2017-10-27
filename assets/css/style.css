@@ -1,57 +1,64 @@
- 
- body{
+ body {
  	/*background-color: #FAFAFA;*/
  	background-color: #293588;
  }
-
- #wrapper{
- 	display: flex;
-    justify-content: center;
-	
+ 
+ h1,
+ h2,
+ h3,
+ h4 {
+ 	font-family: 'Proxima Nova Semibold', sans-serif;
  }
-
- .markdown-body{
+ 
+ p {
+ 	font-family: 'Proxima Nova', sans-serif
+ }
+ 
+ #wrapper {
+ 	display: flex;
+ 	justify-content: center;
+ }
+ 
+ .markdown-body {
  	box-sizing: border-box;
  	padding: 10px;
  	width: 80%;
-	color: white;
-	font-family: 'Open Sans', sans-serif;
+ 	color: white;
+ 	font-family: 'Proxima Nova Regular', sans-serif;
  	/*background-color: white;*/
  }
-
- #schedule{
-	box-sizing: border-box;
+ 
+ #schedule {
+ 	box-sizing: border-box;
  	display: flex;
  	justify-content: space-around;
  	flex-wrap: wrap;
  	color: black;
-
  }
-
- #venue{
+ 
+ #venue {
  	width: 40%;
  	margin-right: 10px;
  }
-
- #data-time{
+ 
+ #data-time {
  	width: 30%;
  }
-
-.schedule-detail{
-	background-color: #ecf0f1;
-	
-	padding: 5px;
-	border: 1px dashed black;
-	border-radius: 10px;
-
-}
- #register{
+ 
+ .schedule-detail {
+ 	background-color: #ecf0f1;
+ 	padding: 5px;
+ 	border: 1px dashed black;
+ 	border-radius: 10px;
+ }
+ 
+ #register {
  	box-sizing: border-box;
  	margin-top: 40px;
  	display: flex;
  	justify-content: center;
  }
-
- a{
+ 
+ a {
  	color: #ff5e00 !important;
  }
