@@ -19,6 +19,16 @@
  	/*background-color: white;*/
  }
 
+ .header img{
+ 	float: left;
+	max-height: 2.5em;
+ 	margin-right: 15px;
+ }
+
+ .header h1{
+ 	position: relative;
+ }
+
  #schedule{
 	box-sizing: border-box;
  	display: flex;
