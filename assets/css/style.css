@@ -1,57 +1,107 @@
- 
- body{
- 	/*background-color: #FAFAFA;*/
- 	background-color: #293588;
- }
-
- #wrapper{
- 	display: flex;
-    justify-content: center;
-	
- }
-
- .markdown-body{
- 	box-sizing: border-box;
- 	padding: 10px;
- 	width: 80%;
-	color: white;
-	font-family: 'Open Sans', sans-serif;
- 	/*background-color: white;*/
- }
-
- #schedule{
-	box-sizing: border-box;
- 	display: flex;
- 	justify-content: space-around;
- 	flex-wrap: wrap;
- 	color: black;
-
- }
-
- #venue{
- 	width: 40%;
- 	margin-right: 10px;
- }
-
- #data-time{
- 	width: 30%;
- }
-
-.schedule-detail{
-	background-color: #ecf0f1;
-	
-	padding: 5px;
-	border: 1px dashed black;
-	border-radius: 10px;
-
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*background-color: #FAFAFA;*/
+    /* background-color: #293588; */
 }
- #register{
- 	box-sizing: border-box;
- 	margin-top: 40px;
- 	display: flex;
- 	justify-content: center;
- }
+a {
+    color: #ff5e00 !important;
+    transition: 250ms;
+}
+a:hover {
+    color: #f09364 !important;
+}
+#wrapper {
+    /*display: flex;
+    justify-content: center;*/
+}
+#header {
+    text-align: center;
+    background-color: #293588;
+}
+#heading-tag {
+    font-size: 24px;
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    margin: 0;
+    padding: 15px 0;
+}
+/* #heading-tag a:hover {
+    color: #f09364;
+} */
+#mozilla-niec-hacktoberfest {
+    color: #fff;
+    margin: 80px 0;
+}
 
- a{
- 	color: #ff5e00 !important;
- }
+#description,
+#schedule,
+#detail {
+    padding: 50px 0;
+}
+#description h4 {
+    margin-bottom: 20px;
+}
+#description p {}
+
+
+#schedule {
+    background-color: #FAFAFA;
+}
+.schedule-detail {
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+.schedule-detail h3 {
+    margin-top: 10px;
+}
+#register {
+    box-sizing: border-box;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.btn-register {
+    color: #fff !important;
+    border-radius: 0;
+    background-color: #ff5e00;
+    width: 180px;
+}
+.btn-register:hover {
+    color: #fff !important;
+    box-shadow: 0 4px 12px -2px rgba(0,0,0,.3);
+    transform: scale(1.1);
+}
+#detail {
+    padding: 50px 0;
+}
+#detail #sponsors {
+    margin-top: 0;
+}
+#footer {
+    text-align: right;
+    border-top: 1px solid #eee;
+    padding: 15px 0;
+}
+#footer p {
+    margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+    #mozilla-niec-hacktoberfest {
+        margin: 50px 0;
+    }
+    #description,
+    #schedule,
+    #detail {
+        padding: 30px 0;
+    }
+    #schedule {
+        background-color: #FAFAFA;
+    }
+    #data-time {
+        margin-top: 20px;
+    }
+    #register {
+        margin-top: 20px;
+    }
+}
