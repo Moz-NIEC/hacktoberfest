@@ -1,4 +1,9 @@
 # Mozilla NIEC Hacktoberfest
+
+<div align="center" style="margin: 20px">
+  <img src="https://github.com/M/hacktoberfest/blob/master/image.jpg">
+</div>
+
 #### Support Open Source and earn a limited edition T-shirt
 
 We're hosting an in-person meetup at NIEC on 28th October, from 10 am - 3 pm, to gather all free and open source enthusiasts from the Delhi city to contribute to open source projects together. 
