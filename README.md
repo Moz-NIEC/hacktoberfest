@@ -1,4 +1,5 @@
 # Mozilla NIEC Hacktoberfest
+https://moz-niec.github.io/hacktoberfest/
 
 <div align="center" style="margin: 20px">
   <img src="https://github.com/Moz-NIEC/hacktoberfest/blob/master/image.jpg">
