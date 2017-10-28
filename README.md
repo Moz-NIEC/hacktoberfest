@@ -15,7 +15,7 @@ Room No. 4202 , Northern India Engineering College
 28th October | 10 am - 3 pm
 
 ### Sponsors:
-- T-shirt* by Digital Ocean & GitHub
+- T-shirt by Digital Ocean & GitHub
 - You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
 - Win swag from various FOSS organisations
 
