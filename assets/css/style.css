@@ -3,13 +3,30 @@
  	/*background-color: #FAFAFA;*/
  	background-color: #293588;
  }
+ @font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+title{
+	font-family: myFirstFont;
+}
 
  #wrapper{
  	display: flex;
     justify-content: center;
 	
- }
-
+}
+section{
+	display:inline-block;
+	width:100%;
+}
+#mozilla-niec-hacktoberfest{
+	/* font-weight:bold; */
+	/* font-size:40px; */
+	/* color:#FFFFFF; */
+	/* background-color:#FFB405; */
+	display:inline-block;
+	}
  .markdown-body{
  	box-sizing: border-box;
  	padding: 10px;
