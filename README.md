@@ -6,7 +6,7 @@
 
 #### Support Open Source and earn a limited edition T-shirt
 
-We're hosting an in-person meetup at NIEC on 28th October, from 10 am - 3 pm, to gather all free and open source enthusiasts from the Delhi city to contribute to open source projects together. 
+We're hosting an in-person meetup at NIEC on 28th October, from 10 am - 3 pm, to gather all free and open source enthusiasts from  Delhi to contribute to open source projects together. 
 
 Hacktoberfest is an annual  month-long event to celebrate and encourage more developers to become involved with open source software. It's open for anyone, especially beginners just getting started with open source! 
 
