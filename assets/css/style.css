@@ -123,9 +123,27 @@ font-family: 'Poiret One', cursive;
 }
 
 #org{
+  width: 100%;
+}
+#org #org_content{
   color: white;
-  margin-left: 100px;
-  padding: 20px;
+  padding: 40px 100px;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+}
+#org #org_content div{
+  width: 40%;
+}
+
+@media screen and (max-width: 760px){
+
+  #org_content > div{
+    width: 100%!important;
+  }
+
 }
 
 #footer{
