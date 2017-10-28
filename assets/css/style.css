@@ -13,6 +13,43 @@ header .logo {
   width: 100%;
 }
 
+div.title-bar
+{
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: 999;
+}
+
+ul.title-bar
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li a
+{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover
+{
+  background-color: #eeeeee;
+  font-size: 125%;
+  padding: 12px;
+  color: #555555;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
 h1 a img {
   background-color:;
 }
