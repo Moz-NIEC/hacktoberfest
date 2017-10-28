@@ -130,6 +130,11 @@ font-family: 'Poiret One', cursive;
 
 #footer{
   background: #f0f0f0;
+    height: 100px;
+    font-size: 20px;
+    font-family: "Poiret One";
+    text-align: center;
+    padding-top: 15px;
 
 }
 
@@ -152,5 +157,6 @@ a {
 @media (max-width: 320px) {
   .markdown-body {
     padding: 20px;
+
   }
 } 
