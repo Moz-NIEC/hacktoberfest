@@ -16,14 +16,14 @@ In this meetup, we'll take a beginner friendly session on Git and GitHub.
 The most active contributors, who make at least 4 PR's merged, will receive T-shirts sponsored by Digital Ocean. 
 
 ### Venue: 
-Room No. 4202 , Northern India Engineering College
+Room No. 4202, Northern India Engineering College
 ### Date | Time
 28th October | 10 am - 3 pm
 
 ### Sponsors:
 - T-shirt* by Digital Ocean & GitHub
-- You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
-- Win swag from various FOSS organisations
+- You can also redeem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
+- Win swag from various FOSS organizations
 
 
 For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) at championshuttler@gmail.com , 9310945854 
@@ -36,6 +36,7 @@ For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozi
 [Shivam Singhal](https://mozillians.org/en-US/u/championshuttler/) <br />
 [Rishabh Kr Bothra](https://github.com/geekychaser)<br/>
 [Rishabh Budhiraja](https://github.com/rbrishabh) <br/>
+[Shiva Saxena](https://github.com/GeekyShacklebolt) <br/>
 Mozilla NIEC Ignited Minds
 
 the session is going on...
