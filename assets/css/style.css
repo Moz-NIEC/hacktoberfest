@@ -12,7 +12,9 @@ header .logo {
   max-width: 100px;
   width: 100%;
 }
-
+header .logo:hover {
+  transform: scale(1.2);
+}
 h1 a img {
   background-color:;
 }
@@ -37,7 +39,7 @@ padding: 40px;
   /*background-color: white;*/
 }
 .markdown-body img{
-  background-color: #ffffff1a;
+  background-color: #461c6d !important;
   height: 150px;
 };
 
@@ -76,13 +78,13 @@ h4{
 #venue {
   width: 20%;
   margin-right: 10px;
-  background: #ff5e00;
+  background: #d89b50;
   font-family: 'Anton', sans-serif;
 }
 
 #data-time {
   width: 20%;
-  background: #ff5e00;
+  background: #d89b50;
   font-family: 'Anton', sans-serif;
 }
 
@@ -146,7 +148,9 @@ font-family: 'Poiret One', cursive;
   position: relative;
   width: 100%;
 }
-
+#org_content a {
+  color: #b3c9e4 !important;
+}
 a {
   color: #ff5e00 !important;
 }
