@@ -139,9 +139,8 @@ font-family: 'Poiret One', cursive;
   color: #F3A87D;
   border-top: 1px solid red;
   height: 40px;  /* footer height */
-  /* padding-top: 10px;
+  padding-top: 10px;
   padding-right: 10px;
-  text-align: center; */
   display: block;
   margin-top: 10px;  /*space between content and footer*/
   box-sizing: border-box;
@@ -150,7 +149,7 @@ font-family: 'Poiret One', cursive;
 }
 .footer-text{
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
 }
 #org_content a {
   color: #b3c9e4 !important;
