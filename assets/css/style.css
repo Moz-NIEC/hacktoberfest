@@ -151,6 +151,9 @@ font-family: 'Poiret One', cursive;
   text-align: center;
   font-size: 15px;
 }
+#github{
+    margin-left: 20px;
+}
 #org_content a {
   color: #b3c9e4 !important;
 }
