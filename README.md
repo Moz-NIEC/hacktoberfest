@@ -39,4 +39,4 @@ For Partnership/Sponsorship opportunities, contact [Shivam Singhal](https://mozi
 [Shiva Saxena](https://github.com/GeekyShacklebolt) <br/>
 Mozilla NIEC Ignited Minds
 
-the session is going on...
+the session is going on!
