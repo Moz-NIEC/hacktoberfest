@@ -138,7 +138,7 @@ font-family: 'Poiret One', cursive;
   background-color: #111111;
   color: #F3A87D;
   border-top: 1px solid red;
-  height: 40px;  /* footer height */
+  height: 170px;  /* footer height */
   padding-top: 10px;
   padding-right: 10px;
   display: block;
@@ -146,10 +146,25 @@ font-family: 'Poiret One', cursive;
   box-sizing: border-box;
   position: relative;
   width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 .footer-text{
   text-align: center;
   font-size: 15px;
+}
+.footer-header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.footer-list {
+  list-style: none;
+  text-decoration: none;
+}
+.copyright {
+  text-align: center;
+  grid-column: 1 / -1;
 }
 #org_content a {
   color: #b3c9e4 !important;
